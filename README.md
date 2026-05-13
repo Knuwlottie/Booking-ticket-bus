@@ -39,7 +39,7 @@ Busticketsystem/
 ### ✅ Các bước:
 1. **Clone repo:**
 ```bash
-https://github.com/itkhair05/Booking-ticket-bus.git
+https://github.com/Knuwlottie/Booking-ticket-bus.git
 ```
 
 2. **Mở bằng IntelliJ IDEA** → Chọn thư mục `Busticketsystem`
@@ -75,6 +75,6 @@ String connectionUrl = "jdbc:sqlserver://localhost:1433;databaseName=QuanLyVeXe;
 
 ## 📬 Liên hệ
 
-> 👤 Tác giả: **Dương Thế Khải**  
-> 📫 Email: duongthekhai.dev@gmail.com 
+> 👤 Tác giả: **Huỳnh Lê Khả NHư**  
+> 📫 Email: huynhlekhanhu.kg@gmail.com
 
